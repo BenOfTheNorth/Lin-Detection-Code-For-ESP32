@@ -6,6 +6,11 @@ It's designed to run on a standard ESP32, however it could be re-purposed to run
 
 This was developed primarily for modern VAG steering wheels, but may be applicable to other vehicles too (though a tweak may be needed to the baud rates etc).
 
+Developed by Ben Of The North:
+- __Website:__ [https://benofthenorth.com](https://benofthenorth.com)
+- __YouTube:__ [https://www.youtube.com/@benofthenorthuk](https://www.youtube.com/@benofthenorthuk)
+- __Instagram:__ [https://www.instagram.com/benofthenorth_tt](https://www.instagram.com/benofthenorth_tt)
+
 ## Table Of Contents
 
 - [Known Frames](#known-frames)
@@ -13,6 +18,8 @@ This was developed primarily for modern VAG steering wheels, but may be applicab
 - [Components Required](#components-required)
 - Circuit / Wiring Diagram
 - Compiling and Using The Software
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Known Frames
 
@@ -41,3 +48,11 @@ This is the complete list of parts you'll require:
 - **12v Power Supply:**<br />  (Amazon: [https://www.amazon.co.uk/gp/aw/d/B0CJ8SQDLN](https://www.amazon.co.uk/gp/aw/d/B0CJ8SQDLN))<br /><br />
 - **Breadboard:**<br />  (Ali Express: [https://www.aliexpress.com/item/1005006994564405.html](https://www.aliexpress.com/item/1005006994564405.html))<br /><br />
 - **USB C Cable:** The ESP32's I linked to are USB-C powered, so you'll need a USB-C to either USB-C or USB-A (Whichever your computer has)
+
+## Contributing
+
+I welcome contributions to this package, especially to the known frames section - if you sniff a steering wheel (or device) that's not already listed we'd love for you to add it.
+
+## License
+
+This package is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
