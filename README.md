@@ -1,6 +1,6 @@
 # LIN Frame Detection for ESP32 Boards
 
-This is a project that allows you to connect and listen to a LIN network for frames related to button presses - this is the tool I created and use to detect button presses on a LIN2 Steering Wheel to reverse engineer it into an older vehicle.
+This is a project that allows you to connect and listen (sniff) to a LIN network for frames related to button presses - this is the tool I created and use to detect button presses on a LIN2 Steering Wheel to reverse engineer it into an older vehicle.
 
 It's designed to run on a standard ESP32, however it could be re-purposed to run on most ESP32 boards. This should work on a Mac and Windows, though I've only tested with a Mac (Studio).
 
@@ -27,3 +27,7 @@ This is the complete list of parts you'll require:
 - **12v Power Supply:**<br />  (Amazon: [https://www.amazon.co.uk/gp/aw/d/B0CJ8SQDLN](https://www.amazon.co.uk/gp/aw/d/B0CJ8SQDLN))<br /><br />
 - **Breadboard:**<br />  (Ali Express: [https://www.aliexpress.com/item/1005006994564405.html](https://www.aliexpress.com/item/1005006994564405.html))<br /><br />
 - **USB C Cable:** The ESP32's I linked to are USB-C powered, so you'll need a USB-C to either USB-C or USB-A (Whichever your computer has)
+
+## Known Frames
+
+For frames that I have already sniffed (or added by the community via pull requests), you can check the [known-frames directory](/known-frames).
