@@ -6,5 +6,6 @@ It's designed to run on a standard ESP32, however it could be re-purposed to run
 
 ## Project
 
+- Board: ESP32 (Amazon Link [https://www.amazon.co.uk/dp/B0DGLCWR76](https://www.amazon.co.uk/dp/B0DGLCWR76))
 - IDE: VS Code
 - Extension: PlatformIO
