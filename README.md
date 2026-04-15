@@ -12,6 +12,7 @@ This was developed primarily for modern VAG steering wheels, but may be applicab
 - [Software Required](#software-required)
 - [Components Required](#components-required)
 - Circuit / Wiring Diagram
+- Compiling and Using The Software
 
 ## Known Frames
 
