@@ -2,7 +2,7 @@
 
 ## Pinout
 
-When holding the steering wheel directly in front of you, in the straight forward position, starting from the left most pin:
+When holding the steering wheel directly in front of you (in the driving straight forward position) with the airbag completely removed, starting from the left most pin:
 
 - Pin 1 - LIN Communication Pin
 - Pin 2 - 12v Power
