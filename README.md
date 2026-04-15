@@ -6,16 +6,23 @@ It's designed to run on a standard ESP32, however it could be re-purposed to run
 
 This was developed primarily for modern VAG steering wheels, but may be applicable to other vehicles too (though a tweak may be needed to the baud rates etc).
 
+## Table Of Contents
+
+- [Known Frames](#known-frames)
+- [Software Required](#software-required)
+- [Components Required](#components-required)
+- Circuit / Wiring Diagram
+
 ## Known Frames
 
 For frames that I have already sniffed (or added by the community via pull requests), you can check the [known-frames directory](/known-frames). This might saved you the work if you're planning on doing this yourself if the frames have already been sniffed.
 
-## Software
+## Software Required
 
 - **IDE:** Visual Studio Code (Free)<br />   (Download from Microsoft: [https://code.visualstudio.com/](https://code.visualstudio.com/))<br /><br />
 - **Extensions:** PlatformIO (Free)<br />   (Install Guide from PlatformIO: [https://platformio.org/install/ide?install=vscode](https://platformio.org/install/ide?install=vscode))
 
-## Components
+## Components Required
 
 This is the complete list of parts you'll require:
 
