@@ -1,6 +1,8 @@
-# Known Frames - Audi TT Mk3 (8S) - Steering Wheel
+# Known Frames - Audi TT Mk3 (8S)
 
-- __Vehicle:__ Audi TT Mk3 (8S) [https://en.wikipedia.org/wiki/Audi_TT#TT_Mk3_(Type_FV/8S,_2014%E2%80%932023)](https://en.wikipedia.org/wiki/Audi_TT#TT_Mk3_(Type_FV/8S,_2014%E2%80%932023))
+- __Frames Type:__ Steering Wheel
+- __Date Captured:__ April 2026
+- __Vehicle:__ Audi TT Mk3 (FV / 8S) - 2014–2023 ([Vehicle Wikipedia Link](https://en.wikipedia.org/wiki/Audi_TT#TT_Mk3_(Type_FV/8S,_2014%E2%80%932023)))
 
 ## Pinout
 
@@ -14,7 +16,7 @@ When holding the steering wheel directly in front of you (in the driving straigh
 ## Frames
 
 | Group | Button | Frame |
-| -------- | -------- | ------- |
+| :--- | :--- | :--- |
 | __Central__ | Horn Button | x |
 | __Rear__ | Left DSG/Gear Paddle | x |
 | __Rear__ | Right DSG/Gear Paddle | x |
