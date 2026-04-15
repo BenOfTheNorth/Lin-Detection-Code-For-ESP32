@@ -1,4 +1,4 @@
-# Known Steering Wheel Frames - Audi TT Mk3
+# Known Frames - Audi TT Mk3 - Steering Wheel
 
 ## Pinout
 
