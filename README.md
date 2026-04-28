@@ -6,7 +6,7 @@ It's designed to run on a standard ESP32, however it could be re-purposed to run
 
 This was developed primarily for modern VAG steering wheels, but may be applicable to other vehicles too (though a tweak may be needed to the baud rates etc).
 
-Developed by Ben Of The North:
+### Developed by Ben Of The North:
 - __Website:__ [https://benofthenorth.com](https://benofthenorth.com)
 - __YouTube:__ [https://www.youtube.com/@benofthenorthuk](https://www.youtube.com/@benofthenorthuk)
 - __Instagram:__ [https://www.instagram.com/benofthenorth_tt](https://www.instagram.com/benofthenorth_tt)
